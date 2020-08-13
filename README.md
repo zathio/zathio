@@ -1,6 +1,6 @@
 ### Hi there, It's Mathis 👋
 
-## I'm a French self-taught Front-end Developer! 💻
+## I'm a French Front-end Developer! 💻
 
 - 📚 I’m currently learning with Web Challenges
 - ⚡ Fun fact: I love Sport, Gaming and Coding !
