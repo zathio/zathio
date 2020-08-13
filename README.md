@@ -16,7 +16,7 @@
 - [FreeCodeCamp Certifications](https://www.freecodecamp.org/zathio) :   
     ⏳ Responsive Web Design / ⏳ Front End Libraries
 
-- [Dev Challenges](https://github.com/zathio/dev-challenges) :   
+- [Dev Challenges](https://devchallenges.io/profile/6esbzxPoQOt0mlnWBNoT) :   
     ⏳ Responsive Path / ⏳ Front-end Path
 
 - ⏳ [FrontLoops Challenges](https://github.com/zathio/frontloops-challenges)
