@@ -9,7 +9,7 @@
 
 ### Certifications and Challenges 🎓
 
-- [Sololearn Certificates](https://www.sololearn.com/Profile/15111879) :   
+- [SoloLearn Certificates](https://www.sololearn.com/Profile/15111879) :   
     ✔️ - HTML / CSS / Javascript  
     ⏳ - React + Redux / PHP
   
