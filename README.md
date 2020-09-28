@@ -18,8 +18,8 @@
     ⏳ Front End Libraries
     
  - [FrontLoops Challenges](https://github.com/zathio/frontloops-challenges) :   
-    ✔️ Markup   
-    ⏳ Elements
+    ⏳ Markup   
+    ✔️ Elements
 
 - [Dev Challenges](https://devchallenges.io/profile/6esbzxPoQOt0mlnWBNoT) :   
     ⏳ Responsive Path   
