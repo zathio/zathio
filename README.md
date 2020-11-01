@@ -24,6 +24,8 @@
 - [Dev Challenges](https://devchallenges.io/profile/6esbzxPoQOt0mlnWBNoT) :   
     ⏳ Responsive Path   
     ⏳ Front-end Path
+    
+- [Frontend Mentor](https://www.frontendmentor.io/profile/zathio)
 
 ---
 
