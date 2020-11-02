@@ -10,22 +10,23 @@
 ### Certifications and Challenges 🎓
 
 - [SoloLearn Certificates](https://www.sololearn.com/Profile/15111879) :   
-    ✔️ HTML / CSS / Javascript  
-    ⏳ React + Redux / PHP
+    ✔️ HTML / CSS / Javascript   
+    ⏳(25%) PHP   
+    ⏳(10%) React + Redux
   
 - [FreeCodeCamp Certifications](https://www.freecodecamp.org/zathio) :   
-    ⏳ Responsive Web Design   
-    ⏳ Front End Libraries
+    ⏳(97%) Responsive Web Design   
+    ⏳(6%) Front End Libraries
     
  - [FrontLoops Challenges](https://github.com/zathio/frontloops-challenges) :   
-    ⏳ Markup   
+    ⏳(97%) Markup   
     ✔️ Elements
 
-- [Dev Challenges](https://devchallenges.io/profile/6esbzxPoQOt0mlnWBNoT) :   
-    ⏳ Responsive Path   
-    ⏳ Front-end Path
+- [Dev Challenges](https://portfolio.devchallenges.io/zathio) :   
+    ⏳(25%) Responsive Path   
+    ⏳(0%) Front-end Path
     
-- [Frontend Mentor](https://www.frontendmentor.io/profile/zathio)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/zathio) (4 Projects)
 
 ---
 
