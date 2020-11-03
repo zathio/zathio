@@ -22,7 +22,7 @@
     ⏳(97%) Markup   
     ✔️ Elements
 
-- [Dev Challenges](https://portfolio.devchallenges.io/zathio) :   
+- [Dev Challenges](https://github.com/zathio/dev-challenges) :   
     ⏳(25%) Responsive Path   
     ⏳(0%) Front-end Path
     
