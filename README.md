@@ -26,7 +26,8 @@
     ⏳(25%) Responsive Path   
     ⏳(0%) Front-end Path
     
-- [Frontend Mentor](https://www.frontendmentor.io/profile/zathio) (4 Projects)
+- [Frontend Mentor](https://github.com/zathio/frontendmentor-challenges) :   
+    4 Projects
 
 ---
 
