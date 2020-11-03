@@ -10,24 +10,24 @@
 ### Certifications and Challenges 🎓
 
 - [SoloLearn Certificates](https://www.sololearn.com/Profile/15111879) :   
-    ✔️ HTML / CSS / Javascript   
-    ⏳(25%) PHP   
-    ⏳(10%) React + Redux
+    &nbsp;&nbsp;✔️ HTML / CSS / Javascript   
+    &nbsp;&nbsp;⏳(25%) PHP   
+    &nbsp;&nbsp;⏳(10%) React + Redux
   
 - [FreeCodeCamp Certifications](https://www.freecodecamp.org/zathio) :   
-    ⏳(97%) Responsive Web Design   
-    ⏳(6%) Front End Libraries
+    &nbsp;&nbsp;⏳(97%) Responsive Web Design   
+    &nbsp;&nbsp;⏳(6%) Front End Libraries
     
  - [FrontLoops Challenges](https://github.com/zathio/frontloops-challenges) :   
-    ⏳(97%) Markup   
-    ✔️ Elements
+    &nbsp;&nbsp;⏳(97%) Markup   
+    &nbsp;&nbsp;✔️ Elements
 
 - [Dev Challenges](https://github.com/zathio/dev-challenges) :   
-    ⏳(25%) Responsive Path   
-    ⏳(0%) Front-end Path
+    &nbsp;&nbsp;⏳(25%) Responsive Path   
+    &nbsp;&nbsp;⏳(0%) Front-end Path
     
 - [Frontend Mentor](https://github.com/zathio/frontendmentor-challenges) :   
-    4 Projects
+    &nbsp;&nbsp;4 Projects
 
 ---
 
@@ -41,5 +41,5 @@
 
 ### Connect with me 💬
 
-<img align="center" alt="Discord" title="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" /> - Zathio#2976   
-<img align="center" alt="Gmail" title="Email" width="26px" src="https://i.imgur.com/z4nhZMh.png" /> - mathistressard44@gmail.com
+- <img align="center" alt="Discord" title="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" /> - Zathio#2976   
+- <img align="center" alt="Gmail" title="Email" width="26px" src="https://i.imgur.com/z4nhZMh.png" /> - mathistressard44@gmail.com
