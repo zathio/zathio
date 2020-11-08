@@ -23,7 +23,7 @@
     &nbsp;&nbsp;✔️ Elements
 
 - [Dev Challenges](https://github.com/zathio/dev-challenges) :   
-    &nbsp;&nbsp;⏳(50%) Responsive Path   
+    &nbsp;&nbsp;⏳(62.5%) Responsive Path   
     &nbsp;&nbsp;⏳(0%) Front-end Path
     
 - [Frontend Mentor Challenges](https://github.com/zathio/frontendmentor-challenges) :   
