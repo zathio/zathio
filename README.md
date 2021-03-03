@@ -11,7 +11,6 @@
 
 - [SoloLearn Certificates](https://github.com/zathio/sololearn) :   
     &nbsp;&nbsp;✔️ HTML / CSS / Javascript   
-    &nbsp;&nbsp;⏳(10%) React + Redux
   
 - [FreeCodeCamp Certifications](https://www.freecodecamp.org/zathio) :   
     &nbsp;&nbsp;⏳(97%) Responsive Web Design   
