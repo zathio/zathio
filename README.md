@@ -3,7 +3,7 @@
 ## I'm a French Front-end Developer! 💻
 
 - 📚 I’m currently learning with Web Challenges
-- ⚡ Fun fact: I love Sport, Gaming and Coding !
+- ⚡ About me: I love sport, gaming and coding
 
 ---
 
