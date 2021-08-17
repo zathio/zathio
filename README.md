@@ -1,6 +1,6 @@
 ## I'm Mathis, a French Front-end Developer 💻
 
-- 📚 I’m currently mastering css and vanilla js with web challenges
+- 📚 I’m currently learning single page apps with vanilla js and then svelte
 - ⚡ About me: I love sport, gaming and coding
 
 ---
