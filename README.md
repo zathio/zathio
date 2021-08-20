@@ -1,6 +1,6 @@
 ## I'm Mathis, a French Front-end Developer 💻
 
-- 📚 I’m currently learning single page apps with vanilla js and then svelte
+- 📚 I’m currently learning single page apps
 - ⚡ About me: I love sport, gaming and coding
 
 ---
