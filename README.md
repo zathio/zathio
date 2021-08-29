@@ -35,7 +35,7 @@
 
 ---
 
-### Connect with me 💬
+### Contact me 💬
 
 - <img align="center" alt="Discord" title="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" /> - Zathio#2976   
 - <img align="center" alt="Gmail" title="Email" width="26px" src="https://i.imgur.com/z4nhZMh.png" /> - mathistressard44@gmail.com
