@@ -5,25 +5,13 @@
 
 ---
 
-### Certifications and Challenges 🎓
-
-- [SoloLearn Certificates](https://github.com/zathio/sololearn) :   
-    &nbsp;&nbsp;✔️ HTML / CSS / Javascript   
-  
-- [FreeCodeCamp Certifications](https://www.freecodecamp.org/zathio) :   
-    &nbsp;&nbsp;⏳(97%) Responsive Web Design   
-    &nbsp;&nbsp;⏳(6%) Front End Libraries
-    
- - [FrontLoops Challenges](https://github.com/zathio/frontloops-challenges) :   
-    &nbsp;&nbsp;⏳(97%) Markup   
-    &nbsp;&nbsp;✔️ Elements
+### Latest Projects 🗃️
 
 - [Dev Challenges](https://github.com/zathio/dev-challenges) :   
-    &nbsp;&nbsp;⏳(75%) Responsive Path   
-    &nbsp;&nbsp;⏳(0%) Front-end Path
+    
+- [FrontLoops Challenges](https://github.com/zathio/frontloops-challenges) :     
     
 - [Frontend Mentor Challenges](https://github.com/zathio/frontendmentor-challenges) :   
-    &nbsp;&nbsp;5 Projects
 
 ---
 
