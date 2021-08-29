@@ -5,13 +5,13 @@
 
 ---
 
-### Latest Projects 🗃️
+### Challenges 📝
 
-- [Dev Challenges](https://github.com/zathio/dev-challenges) :   
+- [Dev Challenges](https://github.com/zathio/dev-challenges)   
     
-- [FrontLoops Challenges](https://github.com/zathio/frontloops-challenges) :     
+- [FrontLoops Challenges](https://github.com/zathio/frontloops-challenges)     
     
-- [Frontend Mentor Challenges](https://github.com/zathio/frontendmentor-challenges) :   
+- [Frontend Mentor Challenges](https://github.com/zathio/frontendmentor-challenges)   
 
 ---
 
