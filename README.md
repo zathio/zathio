@@ -1,6 +1,6 @@
 ## I'm Mathis, a French Front-end Developer 💻
 
-- 📚 I’m currently learning single page apps
+- 📚 I’m currently learning about static site generation
 - ⚡ About me: I love sport, gaming and coding
 
 ---
