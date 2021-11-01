@@ -1,6 +1,6 @@
 ## I'm Mathis, a French Front-end Developer 💻
 
-- 📚 I’m currently learning about static site generation
+- 📚 I’m currently learning about headless cms and static site generator
 - ⚡ About me: I love sport, gaming and coding
 
 ---
