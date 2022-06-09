@@ -1,7 +1,7 @@
 ## I'm Mathis, a French Front-end Developer 💻
 
-- 💼 I'm currently working as a Freelancer
 - 📚 I plan to start learning Three.js
+- 💼 I'm currently working as a Freelancer
 - ⚡ About me: I love sport, gaming and coding
 
 ---
