@@ -26,4 +26,3 @@
 
 - <img align="center" alt="Discord" title="Discord" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/discord.svg" /> - Zathio#2976   
 - <img align="center" alt="Gmail" title="Email" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/e0babf54f7ac9127942111bf177f549b709a60be/logos/google-gmail.svg" /> - mathistressard44@gmail.com
-- <img align="center" alt="Malt" title="Malt" width="26px" src="https://i.imgur.com/1iRyCJx.png" /> - https://www.malt.fr/profile/mathistressard
