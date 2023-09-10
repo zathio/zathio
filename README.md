@@ -1,8 +1,7 @@
 ## I'm Mathis, Front-end and Creative Developer 💻🎨
 
-- 📚 Currently learning Three.js
+- 📚 Currently making progress on my side projects
 - 💼 I'm working as a Freelancer
-- ⚡ About me: I love sport, gaming and coding
 
 ---
 
