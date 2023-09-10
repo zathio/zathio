@@ -22,5 +22,4 @@
 
 ### Contact me 💬
 
-- <img align="center" alt="Discord" title="Discord" width="26px" src="https://cdn.svgporn.com/logos/discord-icon.svg" /> - Zathio#2976   
-- <img align="center" alt="Gmail" title="Email" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" /> - mathistressard44@gmail.com
+- mathistressard44@gmail.com
