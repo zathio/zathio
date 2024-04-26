@@ -7,7 +7,7 @@
 
 ### Portfolio 📁
 
-- You can have a look at my temporary [Portfolio](portfolio.md) here on Github while I'm still developing my personal website ([www.mathistressard.com](https://www.mathistressard.com/))
+- You can have a look at my temporary [Portfolio](portfolio.md) while my personal website is still under development.
 
 ---
 
