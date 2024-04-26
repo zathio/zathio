@@ -28,7 +28,7 @@ You can hover each project to get more informations and click on it to either br
 <a href="https://sobioda.com/" title="Sobioda - Sass, Twig, Symfony">
     <img src="portfolio/sobioda.webp" alt="Sobioda - Sass, Twig, Symfony" width="49%" loading="lazy">
 </a>
-<a href="portfolio/abc-borne.webp" title="ABC Borne - Sass, Twig, Symfony">
+<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/abc-borne_full.webp" title="ABC Borne - Sass, Twig, Symfony">
     <img src="portfolio/abc-borne.webp" alt="ABC Borne - Sass, Twig, Symfony" width="49%" loading="lazy">
 </a>
 <a href="https://www.restaurantlasignoria.com/" title="Restaurant La Signoria - Astro, Tailwind CSS, Directus">
