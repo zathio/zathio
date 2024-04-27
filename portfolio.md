@@ -8,7 +8,7 @@ You can hover each project to get more informations and click on them to either 
 <a href="https://iaventure.fr/" title="IAventure - Astro, GSAP, Vanilla CSS">
     <img src="portfolio/iaventure.gif" alt="IAventure - Astro, GSAP, Vanilla CSS" width="49%" loading="lazy">
 </a>
-<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/wheel-e.gif" title="Wheel-E - Figma, (Dev is planned)">
+<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/wheel-e_full.jpg" title="Wheel-E - Figma, (Dev is planned)">
     <img src="portfolio/wheel-e.gif" alt="Wheel-E - Figma, (Dev is planned)" width="49%" loading="lazy">
 </a>
 <a href="https://lumkinevision.fr/" title="Lumkine Vision - Astro, Tailwind CSS, Decap CMS">
@@ -20,8 +20,8 @@ You can hover each project to get more informations and click on them to either 
 <a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/international-sos.webp" title="International SOS | Form Page - HTML, CSS, Javascript">
     <img src="portfolio/international-sos.webp" alt="International SOS | Form Page - HTML, CSS, Javascript" width="49%" loading="lazy">
 </a>
-<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/road-rider-world.webp" title="Road Rider World | Language Page - Sass (Scss)">
-    <img src="portfolio/road-rider-world.webp" alt="Road Rider World | Language Page - Sass (Scss)" width="49%" loading="lazy">
+<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/road-rider-world.gif" title="Road Rider World | Language Page - Sass (Scss)">
+    <img src="portfolio/road-rider-world.gif" alt="Road Rider World | Language Page - Sass (Scss)" width="49%" loading="lazy">
 </a>
 
 -   ## 💻 Front-end Development
@@ -40,7 +40,7 @@ You can hover each project to get more informations and click on them to either 
 <a href="https://www.simulimmo.com/" title="Simulimmo - Tailwind CSS, Vite">
     <img src="portfolio/simulimmo.webp" alt="Simulimmo - Tailwind CSS, Vite" width="49%" loading="lazy">
 </a>
-<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/what-the-fluff_full.webp" title="What The Fluff - HTML, CSS, Javascript">
+<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/what-the-fluff_full.jpg" title="What The Fluff - HTML, CSS, Javascript">
     <img src="portfolio/what-the-fluff.webp" alt="What The Fluff - HTML, CSS, Javascript" width="49%" loading="lazy">
 </a>
 <a href="https://www.lesateliersduphil.net/" title="Les Ateliers Duphil - Sass (Scss)">
