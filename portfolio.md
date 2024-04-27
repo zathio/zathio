@@ -1,7 +1,7 @@
 # (Temporary) Portfolio 📚
 
 Most of my publicly available work is listed here.  
-You can hover each project to get more informations and click on it to either browse the online site if available or have a better preview.
+You can hover each project to get more informations and click on them to either browse the online site if available or have a better preview.
 
 -   ## 🎨💻 Design + Development
 
@@ -20,8 +20,8 @@ You can hover each project to get more informations and click on it to either br
 <a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/international-sos.webp" title="International SOS | Form Page - HTML, CSS, Javascript">
     <img src="portfolio/international-sos.webp" alt="International SOS | Form Page - HTML, CSS, Javascript" width="49%" loading="lazy">
 </a>
-<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/road-rider-world.webp" title="Road Rider World - Sass (Scss)">
-    <img src="portfolio/road-rider-world.webp" alt="Road Rider World - Sass (Scss)" width="49%" loading="lazy">
+<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/road-rider-world.webp" title="Road Rider World | Language Page - Sass (Scss)">
+    <img src="portfolio/road-rider-world.webp" alt="Road Rider World | Language Page - Sass (Scss)" width="49%" loading="lazy">
 </a>
 
 -   ## 💻 Front-end Development
