@@ -5,7 +5,7 @@ You can hover each project to get more informations and click on them to either 
 
 -   ## 🎨💻 Design + Development
 
-<a href="https://iaventure.fr/" title="IAventure - Astro, GSAP, Vanilla CSS">
+<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/iaventure_full.mp4" title="IAventure - Astro, GSAP, Vanilla CSS">
     <img src="portfolio/iaventure.gif" alt="IAventure - Astro, GSAP, Vanilla CSS" width="49%" loading="lazy">
 </a>
 <a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/wheel-e_full.jpg" title="Wheel-E - Figma, (Dev is planned)">
