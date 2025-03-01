@@ -32,6 +32,9 @@ You can hover each project to get more informations and click on them to either 
 <a href="https://sobioda.com/" title="Sobioda - Sass, Twig, Symfony">
     <img src="portfolio/sobioda.webp" alt="Sobioda - Sass, Twig, Symfony" width="49%" loading="lazy">
 </a>
+<a href="https://room22.fr/" title="ROOM22 - Astro, CSS, Javascript">
+    <img src="portfolio/room22.gif" alt="ROOM22 - Astro, CSS, Javascript" width="49%" loading="lazy">
+</a>
 <a href="https://www.aerolux-sas.fr/" title="Aerolux - Sass, Twig, Symfony">
     <img src="portfolio/aerolux.webp" alt="Aerolux - Sass, Twig, Symfony" width="49%" loading="lazy">
 </a>
