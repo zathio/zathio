@@ -8,8 +8,8 @@ You can hover each project to get more informations and click on them to either 
 <a href="https://www.youtube.com/watch?v=7xQnmKrvf1E" title="IAventure - Astro, GSAP, Vanilla CSS">
     <img src="portfolio/iaventure.gif" alt="IAventure - Astro, GSAP, Vanilla CSS" width="49%" loading="lazy">
 </a>
-<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/wheel-e_full.jpg" title="Wheel-E - Figma, (Dev is planned)">
-    <img src="portfolio/wheel-e.gif" alt="Wheel-E - Figma, (Dev is planned)" width="49%" loading="lazy">
+<a href="https://upeak-demo.netlify.app/" title="Wheel-E (Upeak) - Three.js, GSAP, Vanilla CSS">
+    <img src="portfolio/wheel-e.gif" alt="Wheel-E (Upeak) - Three.js, GSAP, Vanilla CSS" width="49%" loading="lazy">
 </a>
 <a href="https://lumkinevision.fr/" title="Lumkine Vision - Astro, Tailwind CSS, Decap CMS">
     <img src="portfolio/lumkine-vision.webp" alt="Lumkine Vision - Astro, Tailwind CSS, Decap CMS" width="49%" loading="lazy">
