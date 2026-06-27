@@ -17,11 +17,11 @@ You can hover each project to get more informations and click on them to either 
 <a href="https://meditationartdelarelation.fr/" title="Meditation Art de la Relation - Astro, Tailwind CSS">
     <img src="portfolio/meditation-art-de-la-relation.webp" alt="Meditation Art de la Relation - Astro, Tailwind CSS" width="49%" loading="lazy">
 </a>
-<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/international-sos.webp" title="International SOS | Form Page - HTML, CSS, Javascript">
-    <img src="portfolio/international-sos.webp" alt="International SOS | Form Page - HTML, CSS, Javascript" width="49%" loading="lazy">
+<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/international-sos.webp" title="International SOS | Form App - SPA in Vanilla JS, CSS">
+    <img src="portfolio/international-sos.webp" alt="International SOS | Form App - SPA in Vanilla JS, CSS" width="49%" loading="lazy">
 </a>
-<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/road-rider-world.gif" title="Road Rider World | Language Page - Sass (Scss)">
-    <img src="portfolio/road-rider-world.gif" alt="Road Rider World | Language Page - Sass (Scss)" width="49%" loading="lazy">
+<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/road-rider-world.gif" title="Road Rider World | Language Page - Sass">
+    <img src="portfolio/road-rider-world.gif" alt="Road Rider World | Language Page - Sass" width="49%" loading="lazy">
 </a>
 <a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/3d-histogram.gif" title="Custom 3d Histogram - HTML, CSS, Javascript">
     <img src="portfolio/3d-histogram.gif" alt="Custom 3d Histogram - HTML, CSS, Javascript" width="49%" loading="lazy">
@@ -29,17 +29,17 @@ You can hover each project to get more informations and click on them to either 
 
 
 -   ## 💻 Front-end Development
-<a href="https://sobioda.com/" title="Sobioda - Sass, Twig, Symfony">
-    <img src="portfolio/sobioda.webp" alt="Sobioda - Sass, Twig, Symfony" width="49%" loading="lazy">
+<a href="https://www.evrard-fr.com/" title="Evrard - Sass, Twig, Symfony">
+    <img src="portfolio/evrard.webp" alt="Evrard - Sass, Twig, Symfony" width="49%" loading="lazy">
 </a>
 <a href="https://room22.fr/" title="ROOM22 - Astro, CSS, Javascript">
     <img src="portfolio/room22.gif" alt="ROOM22 - Astro, CSS, Javascript" width="49%" loading="lazy">
 </a>
+<a href="https://sobioda.com/" title="Sobioda - Sass, Twig, Symfony">
+    <img src="portfolio/sobioda.webp" alt="Sobioda - Sass, Twig, Symfony" width="49%" loading="lazy">
+</a>
 <a href="https://groupe-metalpe.com/" title="Metalpe - Sass, Twig, Symfony">
     <img src="portfolio/metalpe.gif" alt="Metalpe - Sass, Twig, Symfony" width="49%" loading="lazy">
-</a>
-<a href="https://www.evrard-fr.com/" title="Evrard - Sass, Twig, Symfony">
-    <img src="portfolio/evrard.webp" alt="Evrard - Sass, Twig, Symfony" width="49%" loading="lazy">
 </a>
 <a href="https://www.aerolux-sas.fr/" title="Aerolux - Sass, Twig, Symfony">
     <img src="portfolio/aerolux.webp" alt="Aerolux - Sass, Twig, Symfony" width="49%" loading="lazy">
@@ -59,24 +59,30 @@ You can hover each project to get more informations and click on them to either 
 <a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/what-the-fluff_full.jpg" title="What The Fluff - HTML, CSS, Javascript">
     <img src="portfolio/what-the-fluff.webp" alt="What The Fluff - HTML, CSS, Javascript" width="49%" loading="lazy">
 </a>
-<a href="https://www.lesateliersduphil.net/" title="Les Ateliers Duphil - Sass (Scss)">
-    <img src="portfolio/les-ateliers-duphil.webp" alt="Les Ateliers Duphil - Sass (Scss)" width="49%" loading="lazy">
+<a href="https://www.lesateliersduphil.net/" title="Les Ateliers Duphil - Sass">
+    <img src="portfolio/les-ateliers-duphil.webp" alt="Les Ateliers Duphil - Sass" width="49%" loading="lazy">
 </a>
 <a href="https://simonekleindesign.online/" title="Simone Klein Portfolio - Tailwind CSS, Vite">
     <img src="portfolio/simone-klein.webp" alt="Simone Klein Portfolio - Tailwind CSS, Vite" width="49%" loading="lazy">
 </a>
-<a href="https://www.garder-mes-enfants.fr/baby-sitter/marseille.html" title="Garder mes enfants - HTML, CSS, Javascript">
+<a href="https://www.garder-mes-enfants.fr/" title="Garder mes enfants - HTML, CSS, Javascript">
     <img src="portfolio/garder-mes-enfants.webp" alt="Garder mes enfants - HTML, CSS, Javascript" width="49%" loading="lazy">
 </a>
-<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/ouistity.webp" title="Ouistit'y - Vanilla CSS">
-    <img src="portfolio/ouistity.webp" alt="Ouistit'y - Vanilla CSS" width="49%" loading="lazy">
+<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/mehdi-mele-full.webp" title="Mehdi Mele - HTML, Sass, Javascript">
+    <img src="portfolio/mehdi-mele.webp" alt="Mehdi Mele - HTML, Sass, Javascript" width="49%" loading="lazy">
 </a>
-<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/livo-agency.webp" title="Livo Agency - Sass (Scss)">
-    <img src="portfolio/livo-agency.webp" alt="Livo Agency - Sass (Scss)" width="49%" loading="lazy">
+<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/woonoz.webp" title="Woonoz | Web App - Spring Boot, CSS, Javascript">
+    <img src="portfolio/woonoz.webp" alt="Woonoz | Web App - Spring Boot, CSS, Javascript" width="49%" loading="lazy">
+</a>
+<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/ouistity.webp" title="Ouistit'y Landing Page - HTML, CSS">
+    <img src="portfolio/ouistity.webp" alt="Ouistit'y Landing Page - HTML, CSS" width="49%" loading="lazy">
+</a>
+<a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/livo-agency.webp" title="Livo Agency - Sass">
+    <img src="portfolio/livo-agency.webp" alt="Livo Agency - Sass" width="49%" loading="lazy">
 </a>
 <a href="https://raw.githubusercontent.com/zathio/zathio/master/portfolio/roadside.webp" title="Roadside EU - Tailwind CSS, Vite">
     <img src="portfolio/roadside.webp" alt="Roadside EU - Tailwind CSS, Vite" width="49%" loading="lazy">
 </a>
-<a href="https://app.lesiteduparent.com/" title="Le Site du Parent - Sass (Scss)">
-    <img src="portfolio/le-site-du-parent.webp" alt="Le Site du Parent - Sass (Scss)" width="49%" loading="lazy">
+<a href="https://app.lesiteduparent.com/" title="Le Site du Parent - Sass">
+    <img src="portfolio/le-site-du-parent.webp" alt="Le Site du Parent - Sass" width="49%" loading="lazy">
 </a>
