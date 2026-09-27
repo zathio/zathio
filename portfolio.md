@@ -9,7 +9,7 @@ You can hover each project to get more informations and click on them to either 
     <img src="portfolio/iaventure.gif" alt="IAventure - Astro, GSAP, Vanilla CSS" width="49%" loading="lazy">
 </a>
 <a href="https://upeak.fr/" title="Wheel-E (Upeak) - Three.js, GSAP, Vanilla CSS">
-    <img src="portfolio/wheel-e.gif" alt="Wheel-E (Upeak) - Three.js, GSAP, Vanilla CSS" width="49%" loading="lazy">
+    <img src="portfolio/upeak.webp" alt="Wheel-E (Upeak) - Three.js, GSAP, Vanilla CSS" width="49%" loading="lazy">
 </a>
 <a href="https://lumkinevision.fr/" title="Lumkine Vision - Astro, Tailwind CSS, Decap CMS">
     <img src="portfolio/lumkine-vision.webp" alt="Lumkine Vision - Astro, Tailwind CSS, Decap CMS" width="49%" loading="lazy">
